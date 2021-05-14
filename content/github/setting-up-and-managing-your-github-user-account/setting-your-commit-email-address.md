@@ -17,7 +17,7 @@ versions:
 topics:
   - Accounts
   - Notifications
----
+---$ git config user.email email@example.com
 
 ### About commit email addresses
 
@@ -99,3 +99,4 @@ You can change the email address associated with commits you make in a single re
    <span class="output">email@example.com</span>
    ```
 5. {% data reusables.user_settings.link_email_with_your_account %}
+$ git config user.email email@example.com
